@@ -66,7 +66,8 @@ header, footer, article, nav, div {
 
 ## OUTPUT:
 
-<img width="1279" alt="image" src="https://github.com/Monisha-11/EXP-04---MODERN-WEB/assets/93427240/8354d19c-ea5a-420a-882b-5527b0d14d0d">
+![image](https://github.com/Aashima02/GRIDBOX/assets/93427086/9cb2e4d3-ebd7-4f6d-a6ea-e52ca5d7544a)
+
 
 ## RESULT:
 
